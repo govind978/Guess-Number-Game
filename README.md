@@ -20,6 +20,11 @@ cd guess-the-number-game
 4. Continue guessing until you correctly guess the number or run out of attempts.
 
 # Working of the "Guess the Number" Game:
+
+
+![gif](https://github.com/govind978/Guess-Number-Game/assets/68467567/1e1e41ae-8e72-46e7-86da-6b0ec12831fa)
+
+
 1. The game generates a random number between a predefined range, typically 1 to 100.
 2. Your goal is to guess the correct number within a certain number of attempts.
 3. After each guess, the game evaluates your input:
@@ -28,22 +33,3 @@ cd guess-the-number-game
 6. If your guess is too low, it suggests aiming higher.
 7. You have a limited number of attempts to guess the correct number. Once you reach the maximum number of attempts, the game will reveal the correct answer.
 8. It's a fun and simple way to learn JavaScript fundamentals, including user input, random number generation, and conditional statements.
-
-# Here are some of the screenshots of the game : 
-![Screenshot (1)](https://github.com/govind978/Guess-Number-Game/assets/68467567/4a6e8d94-daac-40cf-b7aa-702c1305e68a)
-
-
-![Screenshot (2)](https://github.com/govind978/Guess-Number-Game/assets/68467567/44d51941-96c8-41ae-9cfe-2fb6d6175624)
-
-
-![Screenshot (3)](https://github.com/govind978/Guess-Number-Game/assets/68467567/19a17839-bd43-4e08-bf32-18c1ff16bbd9)
-
-
-![Screenshot (4)](https://github.com/govind978/Guess-Number-Game/assets/68467567/58976a82-bac6-490b-9782-ca7a25324760)
-
-
-![Screenshot (5)](https://github.com/govind978/Guess-Number-Game/assets/68467567/f12ef6f1-961c-4fd3-b9a3-20bec8110944)
-
-
-![Screenshot (6)](https://github.com/govind978/Guess-Number-Game/assets/68467567/9d9d3550-e24f-4a48-8191-75ba24a43b57)
-
